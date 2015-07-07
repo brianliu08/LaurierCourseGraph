@@ -8,6 +8,13 @@ dep = {
             "name":"Sociocultural Anthropology",
             "parents":[
             ]
+         },
+          "AN 200":{  
+            "children":[  
+
+            ],
+            "parents":[ 
+            ]
          }
 		}
 	}
