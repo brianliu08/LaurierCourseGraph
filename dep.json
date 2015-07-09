@@ -1,21 +1,302 @@
-dep = {  
-   "Arts":{  
-      "Anthropology":{  
-         "AN 101":{  
+{  
+   "Math, Computer Science and Statistics":{  
+      "Computer Science":{  
+         "CSCC69H3":{  
             "children":[  
-
+               "CSCB07H3",
+               "CSCB09H3",
+               "CSCB58H3"
             ],
-            "name":"Sociocultural Anthropology",
-            "parents":[
+            "parents":[  
+               "CSCD43H3"
             ]
          },
-          "AN 200":{  
+         "CSCD58H3":{  
+            "children":[  
+               "CSCB58H3",
+               "CSCB63H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCD37H3":{  
+            "children":[  
+               "CSCC37H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCC24H3":{  
+            "children":[  
+               "CSCB07H3",
+               "CSCB09H3"
+            ],
+            "parents":[  
+               "CSCD84H3"
+            ]
+         },
+         "CSCD27H3":{  
+            "children":[  
+               "CSCB09H3",
+               "CSCB36H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCD18H3":{  
+            "children":[  
+               "CSCB09H3",
+               "CSCC37H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCB63H3":{  
+            "children":[  
+               "CSCB07H3",
+               "CSCB36H3"
+            ],
+            "parents":[  
+               "CSCC43H3",
+               "CSCC73H3",
+               "CSCD58H3"
+            ]
+         },
+         "CSCC63H3":{  
+            "children":[  
+               "CSCB36H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCB36H3":{  
+            "children":[  
+               "CSCA48H3",
+               "CSCA67H3"
+            ],
+            "parents":[  
+               "CSCB63H3",
+               "CSCC63H3",
+               "CSCD27H3"
+            ]
+         },
+         "CSCD03H3":{  
             "children":[  
 
             ],
-            "parents":[ 
+            "parents":[  
+
+            ]
+         },
+         "CSCA48H3":{  
+            "children":[  
+               "CSCA08H3"
+            ],
+            "parents":[  
+               "CSCB07H3",
+               "CSCB09H3",
+               "CSCB36H3",
+               "CSCB58H3"
+            ]
+         },
+         "CSCD94H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+               "CSCD95H3"
+            ]
+         },
+         "CSCB20H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCB29H3":{  
+            "children":[  
+               "CSCA08H3",
+               "CSCA20H3",
+               "CSCA08H3",
+               "CSCA08H3",
+               "CSCA20H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCB09H3":{  
+            "children":[  
+               "CSCA48H3"
+            ],
+            "parents":[  
+               "CSCC01H3",
+               "CSCC09H3",
+               "CSCC24H3",
+               "CSCC43H3",
+               "CSCC69H3",
+               "CSCD18H3",
+               "CSCD27H3"
+            ]
+         },
+         "CSCA08H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+               "CSCA48H3",
+               "CSCB29H3",
+               "CSCB29H3",
+               "CSCB29H3"
+            ]
+         },
+         "CSCC11H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCC43H3":{  
+            "children":[  
+               "CSCB09H3",
+               "CSCB63H3"
+            ],
+            "parents":[  
+               "CSCC09H3",
+               "CSCD43H3"
+            ]
+         },
+         "CSCD01H3":{  
+            "children":[  
+               "CSCC01H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCC09H3":{  
+            "children":[  
+               "CSCB09H3",
+               "CSCC43H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCC73H3":{  
+            "children":[  
+               "CSCB63H3"
+            ],
+            "parents":[  
+               "CSCD43H3"
+            ]
+         },
+         "CSCC85H3":{  
+            "children":[  
+               "CSCB58H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCC01H3":{  
+            "children":[  
+               "CSCB07H3",
+               "CSCB09H3"
+            ],
+            "parents":[  
+               "CSCD01H3"
+            ]
+         },
+         "CSCD43H3":{  
+            "children":[  
+               "CSCC43H3",
+               "CSCC69H3",
+               "CSCC73H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCA67H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+               "CSCB36H3"
+            ]
+         },
+         "CSCB07H3":{  
+            "children":[  
+               "CSCA48H3"
+            ],
+            "parents":[  
+               "CSCB63H3",
+               "CSCC01H3",
+               "CSCC24H3",
+               "CSCC69H3"
+            ]
+         },
+         "CSCD71H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCC37H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+               "CSCD18H3",
+               "CSCD37H3"
+            ]
+         },
+         "CSCD84H3":{  
+            "children":[  
+               "CSCC24H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCD95H3":{  
+            "children":[  
+               "CSCD94H3"
+            ],
+            "parents":[  
+
+            ]
+         },
+         "CSCB58H3":{  
+            "children":[  
+               "CSCA48H3"
+            ],
+            "parents":[  
+               "CSCC69H3",
+               "CSCC85H3",
+               "CSCD58H3"
+            ]
+         },
+         "CSCD72H3":{  
+            "children":[  
+
+            ],
+            "parents":[  
+
             ]
          }
-		}
-	}
+      }
+   }
 }
