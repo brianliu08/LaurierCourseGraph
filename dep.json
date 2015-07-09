@@ -122,11 +122,7 @@ dep = {
          },
          "CSCB29H3":{  
             "children":[  
-               "CSCA08H3",
-               "CSCA20H3",
-               "CSCA08H3",
-               "CSCA08H3",
-               "CSCA20H3"
+               "CSCA08H3"
             ],
             "parents":[  
 
@@ -152,8 +148,6 @@ dep = {
             ],
             "parents":[  
                "CSCA48H3",
-               "CSCB29H3",
-               "CSCB29H3",
                "CSCB29H3"
             ]
          },
